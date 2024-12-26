@@ -3,7 +3,7 @@
 I'm **Rafsan**, an aspiring data analyst from Toronto, Canada.
 
 I'm primarily interested in **Data Analytics** and currently working on
-a data anayltics project as well as solving leetcode problems.
+a data analytics project as well as solving leetcode problems.
 
 I'm really interested in working with large-scale, high-impact products and drive impact and growth across industry-leading services.
 
