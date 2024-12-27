@@ -11,7 +11,7 @@ Outside of work, I'm interested in cool tech products, aesthetic decor. I also p
 #### Tools I Use for Data Analytics
 [<img src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png" height="50" width=""/>](https://www.mysql.com/) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50" width="50"/>](https://www.python.org/) &nbsp; [<img src="https://img.icons8.com/color/512/tableau-software.png" height="50" width="50"/>](https://www.tableau.com/) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" height="48" width=""/>](https://www.r-project.org/)
 
-#### Check out my Visualizations [Here!](https://public.tableau.com/app/profile/rafsan.ahmed8668/vizzes) 
+#### Check out my Visualizations [Here!](https://public.tableau.com/app/profile/rafsan.ahmed8668/vizzes)
 
 #### Let's connect!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@rafsanahmed2828)
